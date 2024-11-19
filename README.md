@@ -20,8 +20,11 @@ I'm a solo developer with a passion for crafting SaaS applications and bringing 
 
 <br>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+
+[![](https://visitcount.itsvg.in/api?id=MaxMogwitz&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
