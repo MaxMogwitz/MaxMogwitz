@@ -1,6 +1,6 @@
 # Heyho, I'm Max! 👋
 
-I'm a solo developer with a passion for crafting SaaS applications and bringing creative ideas to life through code. For the past 2 years, coding has been my way to explore new technologies and turn exciting concepts into reality.
+I'm a solo developer with a passion for crafting SaaS applications and bringing creative ideas to life through code. For the past 4 years, coding has been my way to explore new technologies and turn exciting concepts into reality.
 
 💼 When I’m not coding, I focus on trading and real estate, which give me the freedom to pursue my passion for development as a hobby.
 
