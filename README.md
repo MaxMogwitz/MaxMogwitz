@@ -3,15 +3,12 @@
 
 <br/>
 
-<p>
-I'm Max, an indie full-stack developer and trader, driven by the art of building and the thrill of strategizing. Every line of code I write is a step toward crafting solutions that matter, from the first spark of an idea to the final polish. Trading sharpens my instincts, challenging me to adapt and think ahead.
-</p>
+<p> I'm Max, an indie full-stack developer and trader, building my version of the digital world one step at a time. Every project I take on is crafted from the ground up starting with a spark of an idea, then planning, designing, and ultimately solving real-life problems with code. </p> 
+<p> Coding is my art, trading sharpens my instincts, and together, they fuel my passion for creating solutions that matter. From the thrill of strategizing to the satisfaction of a polished product, I’m driven by the journey of turning ideas into reality. </p> 
 
-<br/>
+<br/> 
 
-<p align="center">
-  -For me, coding isn’t just a skill—it’s freedom, a canvas where creativity meets logic to shape the future.
-</p>
+<p> And for me, coding isn’t just a skill—it’s freedom, a canvas where creativity meets logic to shape the future. </p> 
 
 ---
 
